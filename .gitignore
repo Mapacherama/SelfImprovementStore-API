@@ -1,0 +1,49 @@
+# .NET and Visual Studio files
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.cache
+*.suo
+*.user
+*.bak
+*.vsconfig
+.vs/
+
+# .NET project files
+*.obj
+*.bin
+*.userprefs
+*.log
+*.tlog
+*.cache
+*.vspscc
+*.vssscc
+tsserver.log
+[nN]ode_modules/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio Code files
+.vscode/
+
+# GraphQL schema and generated files
+*.graphql
+*.gql
+*.gqlgen.*
+/Generated/
+
+# NuGet packages
+*.nuget.props
+*.nuget.targets
+*.dotnet-*
+/packages/
+!packages/*.nupkg
+*.lock.json
+build/
+msbuild.log
+msbuild*.binlog
+
+# Rider files
+.idea/
+*.sln.iml
