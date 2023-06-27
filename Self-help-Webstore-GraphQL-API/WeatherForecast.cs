@@ -1,4 +1,4 @@
-namespace SelfhelpWebstoreAPIGraphQL
+namespace Self_help_Webstore_GraphQL_API
 {
     public class WeatherForecast
     {

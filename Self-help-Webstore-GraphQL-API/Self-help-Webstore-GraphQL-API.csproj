@@ -4,6 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Self_help_Webstore_GraphQL_API</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

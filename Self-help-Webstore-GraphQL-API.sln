@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfhelpWebstoreAPIGraphQL", "SelfhelpWebstoreAPIGraphQL\SelfhelpWebstoreAPIGraphQL.csproj", "{34764E63-1789-4471-AE35-D4E81F4A0F1D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Self-help-Webstore-GraphQL-API", "Self-help-Webstore-GraphQL-API\Self-help-Webstore-GraphQL-API.csproj", "{8E8E7253-3421-4E47-B0D5-27F8005FEF60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{34764E63-1789-4471-AE35-D4E81F4A0F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{34764E63-1789-4471-AE35-D4E81F4A0F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{34764E63-1789-4471-AE35-D4E81F4A0F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{34764E63-1789-4471-AE35-D4E81F4A0F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E8E7253-3421-4E47-B0D5-27F8005FEF60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8E7253-3421-4E47-B0D5-27F8005FEF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8E7253-3421-4E47-B0D5-27F8005FEF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8E7253-3421-4E47-B0D5-27F8005FEF60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {961C25D1-C90C-4215-B296-5B1B223ED2FB}
+		SolutionGuid = {0CC00AF8-2902-491D-A101-AED3B06E9164}
 	EndGlobalSection
 EndGlobal

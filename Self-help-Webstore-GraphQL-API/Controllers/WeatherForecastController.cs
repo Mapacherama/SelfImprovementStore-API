@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace SelfhelpWebstoreAPIGraphQL.Controllers
+namespace Self_help_Webstore_GraphQL_API.Controllers
 {
     [ApiController]
     [Route("[controller]")]
