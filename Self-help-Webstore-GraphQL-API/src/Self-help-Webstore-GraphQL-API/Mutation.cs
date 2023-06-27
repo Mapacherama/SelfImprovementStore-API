@@ -3,8 +3,7 @@ using System;
 
 namespace Self_help_Webstore_GraphQL_API.src.Self_help_Webstore_GraphQL_API
 {
-{
-    public class Mutations
+    public class Mutation
     {
         [GraphQLDescription("Adds a new product to the webstore.")]
         public Product AddProduct(Product product)

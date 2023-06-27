@@ -2,7 +2,7 @@
 
 namespace Self_help_Webstore_GraphQL_API.src.Self_help_Webstore_GraphQL_API
 {
-    public class Queries
+    public class Query
     {
         [GraphQLDescription("Gets a list of all products.")]
         public IQueryable<Product> GetProducts()
