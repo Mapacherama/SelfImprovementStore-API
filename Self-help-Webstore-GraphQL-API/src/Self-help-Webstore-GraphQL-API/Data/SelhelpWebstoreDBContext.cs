@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Self_help_Webstore_GraphQL_API.src.Self_help_Webstore_GraphQL_API.Models;
-using System.ComponentModel.DataAnnotations;
 
 namespace Self_help_Webstore_GraphQL_API.Self_help_Webstore_GraphQL_API.Web
 {
